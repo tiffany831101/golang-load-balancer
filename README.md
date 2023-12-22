@@ -33,3 +33,5 @@ servers := []Server{
 ```
 
 ![image](https://github.com/tiffany831101/golang-load-balancer/assets/39373272/7ef94907-5b13-42e9-9b19-723b1c495cbb)
+
+[source](https://www.youtube.com/watch?v=ZSDYx9eOiqo)
